@@ -14,7 +14,8 @@ exactly items can be stored in the Backpack without "etc.".
 
 6. Can the other players or other enemies collect the fallen items?
 
-**Review of the "Unlocking the Backpack":**
+
+**Review of the "Unlocking the Backpack" and "Backpack rules":**
 
 1. The "very" is extra word in the "very first session" sentence.
 
@@ -22,4 +23,21 @@ exactly items can be stored in the Backpack without "etc.".
 
 3. When does the all slots start empty? After what?..
 
-4. 
+4. Does the player can collect items only from tactical operations?
+   Does the player can move items from the main storage into the backpack during tactical operations?
+
+5. Inconsistency in requirements. Player can move any collected items to the main storage but
+   can't move equipment or others into backpack from main storage. 
+
+6. How many items exactly can contain each slot? What is the maximum number of items can contain the each slot?
+
+7. What is the maximum number of slots can contain the backpack? 
+   It is necessary to write how many slots in the backpack are available on each level of soldier
+
+8. Why the equipment is in the backpack during the tactical operations if it can't be used?
+
+9. How many slots player can buy using in-game currency? What is the maximum number of that slots?
+
+10. Does the player able to add the additional slots without using in-game currency?
+
+11. All actions with items are available only during the tactical operations?
