@@ -17,8 +17,8 @@ tasks:
        
 **Key game features**
 
-• Base building (military themed)
-• Tactical operations (PVE, PVP)
+    • Base building (military themed)
+    • Tactical operations (PVE, PVP)
 
 **Backpack overview:**
 
