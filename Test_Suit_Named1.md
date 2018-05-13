@@ -11,8 +11,8 @@ test
 
 Step actions | Expected Results
 ------------ | -------------
-1. test | 1. test
-2. test | 2. test
+test | test
+test | test
 
 First Header | Second Header
 ------------ | -------------
