@@ -11,8 +11,8 @@ Checking the possibility of storing equipment
 
 Step actions | Expected Results
 ------------ | -------------
-1. Open the main storage | 1. The main storage is opened
-2. Move the helmet item into the backpack | 2. The helmet item is moved into the backpack
+1.Open the main storage | 1.The main storage is opened
+2.Move the helmet item into the backpack | 2.The helmet item is moved into the backpack
 
 **Importance:** High
 
